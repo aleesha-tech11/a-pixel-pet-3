@@ -1,0 +1,12 @@
+# 🐾 a pixel pet
+
+I built a website where you can get pixel figures as pets and u can name it.
+Feed it and take it outside too.
+
+##languages used
+
+- HTML5
+- CSS3
+- JavaScript 
+## features
+.You select a pet by pressing lets get u a pet it opens some options and you select and name it it also shows hunger and energy levels.
