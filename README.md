@@ -3,6 +3,7 @@
 I built a website where you can get pixel figures as pets and u can name it.
 Feed it and take it outside too.
 I wanted to try pixel art but the plan backfired so i switched to something simpler and just naming and selecting was enough.
+Anyway this website lets you choose a pet name it then also check its hunger and playfullness level which can be increased by pressing the feed and play buttons.
 
 ##languages used
 
